@@ -1,0 +1,28 @@
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\App.g.cs
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.Cache
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+D:\ITI INTAKE 37\WPF\Project\WPFProject\WPFProject\obj\Debug\WPFProject.csprojResolveAssemblyReference.cache
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\bin\Debug\WPFProject.exe.config
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject.exe
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject.pdb
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\bin\Debug\WPFProject.exe
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\bin\Debug\WPFProject.pdb
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject.csprojResolveAssemblyReference.cache
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\MainWindow.g.cs
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\App.g.cs
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\MainWindow.baml
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject.g.resources
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\ITI INTAKE 37\WPF\Project\Ahmed Hesham_WPF Project\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.Cache
